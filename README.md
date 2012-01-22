@@ -1,5 +1,5 @@
-<h1>Usage</h1>
-<code>
+# Usage
+
 ;--------------------
 ;smarty
 ;--------------------
@@ -30,4 +30,3 @@ resources.viewsmarty.suffix          = "html"
 ;resources.viewsmarty.outputfilter.0    = "convertEucjp"
 ;resources.viewsmarty.outputfilter.0    = "convertSjis"
 ;resources.viewsmarty.register_function.get_img_tag = "Model_Image/smarty_getImgTag"
-</code>
